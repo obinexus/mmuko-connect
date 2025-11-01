@@ -114,7 +114,7 @@ Inspired by ancient Nsibidi writing, we implement visual-tonal communication:
 ◑ = Falling tone (conclusions/decisions)
 ◊ = Mid tone (neutral information)
 ◈◉ = Harmonic (balanced content)
-⟠ = Resonance point (viral potential)
+⟠ = Resonance point (viral potential) 
 ```
 
 ### Usage in Posts
