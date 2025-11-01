@@ -9,7 +9,7 @@
 
 **Mmuoko** (Mmụọkọ) derives from Igbo tonal language:
 - **Mmu** (high tone) - "spirit/essence"
-- **Oko** (low tone) - "studio/creative space"
+- **Oko** (low tone) - "studio/creative space connections"
 
 The name embodies our philosophy: high concepts grounded in practical creation.
 
